@@ -17,4 +17,7 @@ add_executable(demoTestXi
         vdLab7/vdLab7.7.c
         vdLab7/vdLab9.c
         vdLab7/vdLab10.c
-        Test.c)
+        Test.c
+        codeMauC/vd04.c
+        codeMauC/vd05.c
+        codeMauC/vd06.c)
