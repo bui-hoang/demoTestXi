@@ -20,4 +20,13 @@ add_executable(demoTestXi
         Test.c
         codeMauC/vd04.c
         codeMauC/vd05.c
-        codeMauC/vd06.c)
+        codeMauC/vd06.c
+        vdLab8/vdLab8-01.c
+        vdLab8/vdLab8-02.c
+        vdLab8/vdLab8-03.c
+        vdLab8/vdLab8-04.c
+        vdLab8/vdLab8-05.c
+        vdLab8/baitapLab8-01.c
+        vdLab8/baitapLab8-02.c
+        vdLab8/baitapLab8-03.c
+        vdLab8/baitapLab8-04.c)

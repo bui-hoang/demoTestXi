@@ -4,8 +4,8 @@
 
 #include "stdio.h"
 
-//int vd04(){
-int main() {
+int vd04(){
+//int main() {
     printf("Bạn đã đăng nhập thành công. Good good!\n");
     printf("Bạn muốn sử dụng chức năng nào:\n");
     printf("1: Rút tiền!\n");
