@@ -29,4 +29,5 @@ add_executable(demoTestXi
         vdLab8/baitapLab8-01.c
         vdLab8/baitapLab8-02.c
         vdLab8/baitapLab8-03.c
-        vdLab8/baitapLab8-04.c)
+        vdLab8/baitapLab8-04.c
+        vd01/vdCode01.c)

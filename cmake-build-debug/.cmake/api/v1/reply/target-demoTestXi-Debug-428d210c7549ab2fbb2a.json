@@ -74,7 +74,8 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26
 			]
 		}
 	],
@@ -132,7 +133,8 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26
 			]
 		}
 	],
@@ -292,6 +294,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "vdLab8/baitapLab8-04.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "vd01/vdCode01.c",
 			"sourceGroupIndex" : 0
 		}
 	],

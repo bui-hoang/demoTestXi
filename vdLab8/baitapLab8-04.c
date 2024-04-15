@@ -3,8 +3,8 @@
 //
 #include <stdio.h>
 
-//int baitapLab8_04() {
-int main() {
+int baitapLab8_04() {
+//int main() {
     int a, b, c, all;
     printf("Chương trình nhâp 3 số bất kì tìm số lớn nhất.. Bắt đầu:\n");
     printf("Nhâp số bất kì a:");
