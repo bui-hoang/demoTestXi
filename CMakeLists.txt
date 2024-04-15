@@ -30,4 +30,13 @@ add_executable(demoTestXi
         vdLab8/baitapLab8-02.c
         vdLab8/baitapLab8-03.c
         vdLab8/baitapLab8-04.c
-        vd01/vdCode01.c)
+        vd01/vdCode01.c
+        vdLab4/vdLab4-01.c
+        vdLab4/vdLab4-02.c
+        vdLab4/vdLab4-04.c
+        vdLab4/vdLab4-05.c
+        vdLab4/vdLab4-06.c
+        vdLab4/vdLab4-07.c
+        vdLab4/vdLab4-09.c
+        vdLab4/vdLab4-10.c
+        vdLab4/vdLab4-11.c)

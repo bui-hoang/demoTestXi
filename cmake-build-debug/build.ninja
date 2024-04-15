@@ -211,6 +211,60 @@ build CMakeFiles/demoTestXi.dir/vd01/vdCode01.c.o: C_COMPILER__demoTestXi_unscan
   OBJECT_DIR = CMakeFiles/demoTestXi.dir
   OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vd01
 
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-01.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-01.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-01.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-02.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-02.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-02.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-04.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-04.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-04.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-05.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-05.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-05.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-06.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-06.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-06.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-07.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-07.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-07.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-09.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-09.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-09.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-10.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-10.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-10.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
+build CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-11.c.o: C_COMPILER__demoTestXi_unscanned_Debug /Users/admin/Documents/GitHub/demoTestXi/vdLab4/vdLab4-11.c || cmake_object_order_depends_target_demoTestXi
+  DEP_FILE = CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-11.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demoTestXi.dir
+  OBJECT_FILE_DIR = CMakeFiles/demoTestXi.dir/vdLab4
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target demoTestXi
@@ -219,7 +273,7 @@ build CMakeFiles/demoTestXi.dir/vd01/vdCode01.c.o: C_COMPILER__demoTestXi_unscan
 #############################################
 # Link the executable demoTestXi
 
-build demoTestXi: C_EXECUTABLE_LINKER__demoTestXi_Debug CMakeFiles/demoTestXi.dir/vd01/test.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd01.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd02.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd03.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab1.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab2.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab3.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab4.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab5.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab6.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab7.7.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab9.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab10.c.o CMakeFiles/demoTestXi.dir/Test.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd04.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd05.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd06.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-01.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-02.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-03.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-04.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-05.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-01.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-02.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-03.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-04.c.o CMakeFiles/demoTestXi.dir/vd01/vdCode01.c.o
+build demoTestXi: C_EXECUTABLE_LINKER__demoTestXi_Debug CMakeFiles/demoTestXi.dir/vd01/test.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd01.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd02.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd03.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab1.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab2.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab3.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab4.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab5.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab6.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab7.7.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab9.c.o CMakeFiles/demoTestXi.dir/vdLab7/vdLab10.c.o CMakeFiles/demoTestXi.dir/Test.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd04.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd05.c.o CMakeFiles/demoTestXi.dir/codeMauC/vd06.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-01.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-02.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-03.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-04.c.o CMakeFiles/demoTestXi.dir/vdLab8/vdLab8-05.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-01.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-02.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-03.c.o CMakeFiles/demoTestXi.dir/vdLab8/baitapLab8-04.c.o CMakeFiles/demoTestXi.dir/vd01/vdCode01.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-01.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-02.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-04.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-05.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-06.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-07.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-09.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-10.c.o CMakeFiles/demoTestXi.dir/vdLab4/vdLab4-11.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/demoTestXi.dir
   POST_BUILD = :
