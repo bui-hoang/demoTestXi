@@ -39,4 +39,13 @@ add_executable(demoTestXi
         vdLab4/vdLab4-07.c
         vdLab4/vdLab4-09.c
         vdLab4/vdLab4-10.c
-        vdLab4/vdLab4-11.c)
+        vdLab4/vdLab4-11.c
+        vdLab5/demoLab5-01-02.c
+        vdLab5/demoLab5-03.c
+        vdLab5/demoLab5-04.c
+        vdLab5/demoLab5-4.c
+        vdLab5/demoLab5-05-06.c
+        vdLab5/demoLab5-08-09.c
+        vdLab5/demoLab5-11.c
+        vdLab5/demoLab5-12.c
+)
