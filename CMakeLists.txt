@@ -4,7 +4,7 @@ project(demoTestXi C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(demoTestXi
-        vd01/test.c
+        viduCode/test.c
         codeMauC/vd01.c
         codeMauC/vd02.c
         codeMauC/vd03.c
@@ -30,7 +30,7 @@ add_executable(demoTestXi
         vdLab8/baitapLab8-02.c
         vdLab8/baitapLab8-03.c
         vdLab8/baitapLab8-04.c
-        vd01/vdCode01.c
+        viduCode/vdCode01.c
         vdLab4/vdLab4-01.c
         vdLab4/vdLab4-02.c
         vdLab4/vdLab4-04.c
@@ -48,4 +48,9 @@ add_executable(demoTestXi
         vdLab5/demoLab5-08-09.c
         vdLab5/demoLab5-11.c
         vdLab5/demoLab5-12.c
+        viduCode/vdCode02.c
+        viduCode/vdCode03.c
+        viduCode/vdCode04.c
+        viduCode/vdCode05.c
+        viduCode/vdCode06.c
 )
