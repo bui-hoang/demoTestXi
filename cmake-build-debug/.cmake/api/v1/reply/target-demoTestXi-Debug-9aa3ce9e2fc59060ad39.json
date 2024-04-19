@@ -97,7 +97,13 @@
 				45,
 				46,
 				47,
-				48
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54
 			]
 		}
 	],
@@ -178,7 +184,13 @@
 				45,
 				46,
 				47,
-				48
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54
 			]
 		}
 	],
@@ -403,49 +415,49 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-01-02.c",
+			"path" : "vdSeession5/demoLab5-01-02.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-03.c",
+			"path" : "vdSeession5/demoLab5-03.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-04.c",
+			"path" : "vdSeession5/demoLab5-04.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-4.c",
+			"path" : "vdSeession5/demoLab5-4.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-05-06.c",
+			"path" : "vdSeession5/demoLab5-05-06.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-08-09.c",
+			"path" : "vdSeession5/demoLab5-08-09.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-11.c",
+			"path" : "vdSeession5/demoLab5-11.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "vdLab5/demoLab5-12.c",
+			"path" : "vdSeession5/demoLab5-12.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -476,6 +488,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "viduCode/vdCode06.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab5-01.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab5-02.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab5-03.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab5-04.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab5-05.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baitapLab5/baitapLab6-06.c",
 			"sourceGroupIndex" : 0
 		}
 	],

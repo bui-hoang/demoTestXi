@@ -40,17 +40,23 @@ add_executable(demoTestXi
         vdLab4/vdLab4-09.c
         vdLab4/vdLab4-10.c
         vdLab4/vdLab4-11.c
-        vdLab5/demoLab5-01-02.c
-        vdLab5/demoLab5-03.c
-        vdLab5/demoLab5-04.c
-        vdLab5/demoLab5-4.c
-        vdLab5/demoLab5-05-06.c
-        vdLab5/demoLab5-08-09.c
-        vdLab5/demoLab5-11.c
-        vdLab5/demoLab5-12.c
+        vdSeession5/demoLab5-01-02.c
+        vdSeession5/demoLab5-03.c
+        vdSeession5/demoLab5-04.c
+        vdSeession5/demoLab5-4.c
+        vdSeession5/demoLab5-05-06.c
+        vdSeession5/demoLab5-08-09.c
+        vdSeession5/demoLab5-11.c
+        vdSeession5/demoLab5-12.c
         viduCode/vdCode02.c
         viduCode/vdCode03.c
         viduCode/vdCode04.c
         viduCode/vdCode05.c
         viduCode/vdCode06.c
+        baitapLab5/baitapLab5-01.c
+        baitapLab5/baitapLab5-02.c
+        baitapLab5/baitapLab5-03.c
+        baitapLab5/baitapLab5-04.c
+        baitapLab5/baitapLab5-05.c
+        baitapLab5/baitapLab6-06.c
 )

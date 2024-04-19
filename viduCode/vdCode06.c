@@ -4,8 +4,8 @@
 
 #include <stdio.h>
 
-//int vdCode06() {
-int main() {
+int vdCode06() {
+//int main() {
     int count = 0;
     float total = 0;
     char choice;
