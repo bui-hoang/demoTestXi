@@ -4,8 +4,8 @@
 
 #include <stdio.h>
 
-//int baitapLab5_03() {
-int main() {
+int baitapLab5_03() {
+//int main() {
     int height, i, j;
     do {
         printf("Nhập vào chiều cao của tam giác:\n");
