@@ -59,4 +59,13 @@ add_executable(demoTestXi
         baitapLab5/baitapLab5-04.c
         baitapLab5/baitapLab5-05.c
         baitapLab5/baitapLab6-06.c
+        bai11/bai11-1.c
+        bai11/bai11-2.c
+        bai11/bai11-3.c
+        bai11/bai11-4.c
+        viduCode/vdCode07.c
+        viduCode/vdCode08.c
+        viduCode/vdCode08.c
+        viduCode/vdCode09.c
+        viduCode/vdCode10.c
 )
