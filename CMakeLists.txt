@@ -78,4 +78,7 @@ add_executable(demoTestXi
         codeMauC/vd09.c
         codeMauC/vd10.c
         codeMauC/vd11.c
+        codeMauAtm.c
+        codeMauC/vd12.c
+        codeMauC/vd13.c
 )
