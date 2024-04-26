@@ -68,4 +68,14 @@ add_executable(demoTestXi
         viduCode/vdCode08.c
         viduCode/vdCode09.c
         viduCode/vdCode10.c
+        viduCode/vdCode11.c
+        viduCode/vdCode12.c
+        viduCode/vdCode13.c
+        viduCode/vdCode14.c
+        viduCode/vdCode15.c
+        codeMauC/vd07.c
+        codeMauC/vd08.c
+        codeMauC/vd09.c
+        codeMauC/vd10.c
+        codeMauC/vd11.c
 )
