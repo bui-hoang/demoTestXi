@@ -10,8 +10,8 @@ void placeOrder(char option);
 
 float calculateTotalCost(char option, int quantity);
 
-//int vd13() {
-int main() {
+int vd13() {
+//int main() {
     int option;
     int quantity;
 

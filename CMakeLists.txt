@@ -81,4 +81,8 @@ add_executable(demoTestXi
         codeMauAtm.c
         codeMauC/vd12.c
         codeMauC/vd13.c
+        baiTapLop/bai-01.c
+        baiTapLop/bai-02.c
+        baiTapLop/bai-03.c
+        baiTapLop/bai-04.c
 )
