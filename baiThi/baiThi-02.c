@@ -10,10 +10,10 @@ float crystalTienDien(int sokWh){
         tienDien = sokWh * 500;
     }
     else if(sokWh > 50 && sokWh <= 100){
-        tienDien = sokWh  * 700;
+        tienDien = 50 * 500 + (sokWh - 50) * 700;
     }
     else if(sokWh > 100){
-        tienDien = sokWh  * 900;
+        tienDien = 50 * 500 + 50 * 700 + (sokWh - 100) * 900;
     }
     return tienDien;
 }
@@ -24,10 +24,10 @@ int bai_02(){
     float tienDien;
     printf("Nhập số kWh: ");
     scanf("%d", &sokWh);
-    printf("Tiền điện cho %dkWh là: %.2f VND", sokWh ,crystalTienDien(sokWh));
-    printf("\n------------------------------");
-    printf("\nGia tien cho 30kWh la: %.2f VND", crystalTienDien(30));
-    printf("\nGia tien cho 80kWh la: %.2f VND", crystalTienDien(80));
-    printf("\nGia tien cho 120kWh la: %.2f VND", crystalTienDien(120));
+    printf("Tiền điện cho %dkWh là: %.2f VND\n", sokWh ,crystalTienDien(sokWh));
+    printf("--------------------------------\n");
+    printf("Giá tiền điện cho 30kWh la: %.2f VND\n", crystalTienDien(30));
+    printf("Giá tiền điện cho 80kWh la: %.2f VND\n", crystalTienDien(80));
+    printf("Giá tiền điện cho 120kWh la: %.2f VND\n", crystalTienDien(120));
     return 0;
 }
