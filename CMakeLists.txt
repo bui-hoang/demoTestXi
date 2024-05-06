@@ -85,4 +85,6 @@ add_executable(demoTestXi
         baiTapLop/bai-02.c
         baiTapLop/bai-03.c
         baiTapLop/bai-04.c
+        baiThi/baiThi-01.c
+        baiThi/baiThi-02.c
 )

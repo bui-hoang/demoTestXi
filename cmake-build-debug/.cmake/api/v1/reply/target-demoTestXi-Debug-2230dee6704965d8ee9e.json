@@ -128,7 +128,9 @@
 				76,
 				77,
 				78,
-				79
+				79,
+				80,
+				81
 			]
 		}
 	],
@@ -240,7 +242,9 @@
 				76,
 				77,
 				78,
-				79
+				79,
+				80,
+				81
 			]
 		}
 	],
@@ -724,6 +728,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "baiTapLop/bai-04.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baiThi/baiThi-01.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "baiThi/baiThi-02.c",
 			"sourceGroupIndex" : 0
 		}
 	],
